@@ -1,0 +1,35 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Freelance
+    location: Tehran, Iran
+  positions:
+  - designation: Junior Backend Developer
+    start: Nov 2019
+    responsibilities:
+    - Developing [Zendegi Academy App](https://zendegiacademyapp.ir/)
+    - Developing [7# Media](#)
+
+- company:
+    name: Phoenix Team
+    url: "https://http://pnx.team/"
+    location: KhorramAbad, Iran
+    overview: Phoenix team is an agile team develops Telagram based Applications. 
+  positions:
+  - designation: Intern and Junior Backend Developer
+    start: April 2018
+    end: Oct 2019
+    responsibilities:
+    - Desing and develop a push notification api for the team based on google push notification API. 
+    - Design and develop HiCall, an online phonebook application. 
+    - Learn Learn MERN stack as an Intern. 
